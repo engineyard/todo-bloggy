@@ -1,8 +1,12 @@
+require 'rack/contrib/try_static'
+require 'bundler'
 Listr::Application.routes.draw do
+
 
   resources :lists, :only => [:create, :destroy] do
     resources :tasks, :except => [:new, :edit, :show]
   end
+  
   # The priority is based upon order of creation:
   # first created -> highest priority.
 
