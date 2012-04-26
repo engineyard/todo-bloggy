@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+ 
+ <title>BLOG_NAME</title>
+ <link href="YOUR_URL/atom.xml" rel="self"/>
+ <link href="YOUR_URL"/>
+ <updated>2012-04-25T22:06:20-07:00</updated>
+ <id>BLOG_URL</id>
+ <author>
+   <name>BLOG_NAME</name>
+ </author>
+
+ 
+ <entry>
+   <title>Test 2</title>
+   <link href="YOUR_URL/test-2.html"/>
+   <updated>2012-04-25T00:00:00-07:00</updated>
+   <id>BLOG_URL/test-2</id>
+   <content type="html">&lt;p&gt;Testing Post generation!&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>A Test Post</title>
+   <link href="YOUR_URL/a-test-post.html"/>
+   <updated>2012-04-25T00:00:00-07:00</updated>
+   <id>BLOG_URL/a-test-post</id>
+   <content type="html">&lt;p&gt;Zach is awesome and was bored while his girlfriend and her sister were talking and watching the voice. so this gem was created to generate a blog inside my rails application for my engine yard blog post.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ 
+</feed>
