@@ -1,13 +1,3 @@
-GIT
-  remote: git://github.com/zbruhnke/bloggy.git
-  revision: 8bd2162a07ad8ac0b613c7b9496f31bddf68bbf7
-  specs:
-    bloggy (0.0.2)
-      jekyll
-      rack-contrib
-      rails
-      rdiscount
-
 GEM
   remote: http://rubygems.org/
   specs:
@@ -42,6 +32,11 @@ GEM
     albino (1.3.3)
       posix-spawn (>= 0.3.6)
     arel (2.0.10)
+    bloggy (0.0.3)
+      jekyll
+      rack-contrib
+      rails
+      rdiscount
     bouncy-castle-java (1.5.0146.1)
     builder (2.1.2)
     classifier (1.3.3)
@@ -135,7 +130,7 @@ PLATFORMS
 
 DEPENDENCIES
   activerecord-jdbc-adapter
-  bloggy!
+  bloggy
   jdbc-mysql
   jdbc-postgres
   jdbc-sqlite3
