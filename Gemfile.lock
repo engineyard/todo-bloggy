@@ -1,8 +1,8 @@
 GIT
   remote: git://github.com/zbruhnke/bloggy.git
-  revision: 80041dd39755cd3b99edf7b88454851310098978
+  revision: 8bd2162a07ad8ac0b613c7b9496f31bddf68bbf7
   specs:
-    bloggy (0.0.1)
+    bloggy (0.0.2)
       jekyll
       rack-contrib
       rails
