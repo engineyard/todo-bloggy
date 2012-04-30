@@ -3,9 +3,8 @@ source 'http://rubygems.org'
 gem 'rails', '3.0.9'
 
 gem 'simple_form', '1.5.1'
-gem 'jquery-rails', '1.0.14'
-gem 'jekyll'
-gem 'bloggy'
+gem 'jquery-rails', '1.0.14' 
+gem 'bloggy""
 
 platform :ruby do
   gem 'mysql2', '~> 0.2.7'
