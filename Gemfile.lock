@@ -79,6 +79,10 @@ GEM
     pg (0.13.2)
     polyglot (0.3.3)
     posix-spawn (0.3.6)
+    puma (1.2.2)
+      rack (~> 1.2)
+    puma (1.2.2-java)
+      rack (~> 1.2)
     rack (1.2.5)
     rack-contrib (1.1.0)
       rack (>= 0.9.1)
@@ -138,6 +142,7 @@ DEPENDENCIES
   jruby-openssl
   mysql2 (~> 0.2.7)
   pg (~> 0.13.2)
+  puma
   rails (= 3.0.9)
   simple_form (= 1.5.1)
   sqlite3
