@@ -4,7 +4,7 @@
  <title>BLOG_NAME</title>
  <link href="YOUR_URL/atom.xml" rel="self"/>
  <link href="YOUR_URL"/>
- <updated>2012-05-01T12:09:37-07:00</updated>
+ <updated>2012-05-04T09:36:31-07:00</updated>
  <id>BLOG_URL</id>
  <author>
    <name>BLOG_NAME</name>
@@ -12,11 +12,11 @@
 
  
  <entry>
-   <title>Because Presentations matter</title>
-   <link href="YOUR_URL/Because-Presentations-Matter.html"/>
+   <title>Blogging with Bloggy on Bloggy</title>
+   <link href="YOUR_URL/Blogging-with-Bloggy-on-Bloggy.html"/>
    <updated>2012-05-01T00:00:00-07:00</updated>
-   <id>BLOG_URL/Because-Presentations-Matter</id>
-   <content type="html">&lt;p&gt;testing tims presentation post&lt;/p&gt;
+   <id>BLOG_URL/Blogging-with-Bloggy-on-Bloggy</id>
+   <content type="html">&lt;p&gt;This post is about how you Bloggy can help you blog using Bloggy!&lt;/p&gt;
 </content>
  </entry>
  
